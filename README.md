@@ -6,13 +6,13 @@ I’m a Metallurgical Civil Engineer and Junior Data Analyst passionate about ap
 - 🌱 Learning advanced machine learning and predictive modeling.
 - 📚 Skilled in Python, pandas, scikit-learn, and data visualization tools.
 - 💼 Building a portfolio of projects combining engineering and data science.
-- 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bastianalbornoz/).
+- 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bastian-albornoz-e/).
 
 ---
 
 ### My Projects
 
-- [Comminution Data Analysis](https://github.com/bastianalbornoz/copper-comminution-analysis) – Data cleaning, visualization, and predictive modeling for mineral processing.
+- [Comminution Data Analysis](https://github.com/bastian5656/comminution-process-analysis) – Data cleaning, visualization, and predictive modeling for mineral processing.
 
 ---
 
